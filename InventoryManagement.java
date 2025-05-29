@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A3_Q2 {
+public class InventoryManagement {
 
 	public static void main(String[] args) {
 		// --------------------------------------------------------------
