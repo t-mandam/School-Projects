@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A1_Q1 {
+public class SolarRoofEnergyCalculator {
 
 	public static void main(String[] args) {
 		// ------------------------------------------------------
