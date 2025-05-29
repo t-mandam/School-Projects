@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A1_Q2 {
+public class StringInspector {
 
 	public static void main(String[] args) {
 		// ------------------------------------------------------
