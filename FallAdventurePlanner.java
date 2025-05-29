@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A2_Q1 {
+public class FallAdventurePlanner {
 
 	public static void main(String[] args) {
 		// --------------------------------------------------------------
