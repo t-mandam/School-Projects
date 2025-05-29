@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A2_Q2 {
+public class CurrencyExchange {
 
 	public static void main(String[] args) {
 		// --------------------------------------------------------------
