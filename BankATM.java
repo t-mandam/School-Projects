@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A3_Q1 {
+public class BankATM {
 
 	public static void main(String[] args) {
 		// --------------------------------------------------------------
